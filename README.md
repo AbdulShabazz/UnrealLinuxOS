@@ -63,7 +63,7 @@ Chrome
 - [ ] cinema4D     
 - [ ] houdini    
 - [ ] gimp  
-notes  
+- [ ] notes  
 - [ ] notepad++  
 - [ ] github  
 - [ ] vscode  
