@@ -60,9 +60,7 @@ Chrome
 - [ ] C++ Module Generator
 - [ ] directx 13
 - [ ] blender    
-- [ ] cinema4D    
-- [ ] quixel Mixer   
-- [ ] quixel Bridge    
+- [ ] cinema4D     
 - [ ] houdini    
 - [ ] gimp  
 notes  
